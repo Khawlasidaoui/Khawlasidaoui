@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Khawlasidaoui
 - 👀 I’m interested in data analytics, automation of projects, AI & ML.
-- 🌱 I’m currently learning through Columbia University's Data Analytics Bootcamp and through experience as an engineer at an infrastructure consultant. 
+- 🌱 I’m learning through Columbia University's Data Analytics Bootcamp and through experience as an engineer at an infrastructure consultant. 
 - 💞️ I’m looking to collaborate on AI projects, Computer Vision applications, and creating automations that scrape the internet for the next big idea. 
 - 📫 How to reach me https://www.linkedin.com/in/khawla-sidaoui
 

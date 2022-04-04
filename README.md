@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Khawlasidaoui
-- 👀 I'm a I’m interested in data analytics, automation of projects, AI & ML.
+- 👀 I'm a Bridge Engineer, interested in data analytics, automation of projects, AI & ML.
 - 🌱 I’m learning through Columbia University's Data Analytics Bootcamp, MIT's Data Science Micro-Masters and through experience as an engineer at an infrastructure consultant. 
 - 📫 How to reach me https://www.linkedin.com/in/khawla-sidaoui
 
